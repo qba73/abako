@@ -1,2 +1,2 @@
 # abako
-Python package for checking AWS resources.
+Python package for listing active AWS resources.
