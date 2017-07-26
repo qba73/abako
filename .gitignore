@@ -1,0 +1,13 @@
+*.pyc
+*.pyo
+
+*.egg-info
+dist/
+
+# python virtualenv
+venv/
+.idea/
+
+# vim tmp files
+*.swp
+
